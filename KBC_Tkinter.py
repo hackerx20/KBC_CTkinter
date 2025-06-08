@@ -28,7 +28,6 @@ from CorrectAnswer import correct_answers
 #importing the required modules for the GUI KBC PLATFORM
 import random
 import customtkinter as ctk #to use this customtkinter module  use the command   <<<-------$source myenv/bin/activate----->>>>
-from PIL import Image
 # import tkinter.font as tkFont
 # import os
 #Creating a root window
